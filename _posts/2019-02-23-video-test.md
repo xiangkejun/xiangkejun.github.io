@@ -1,6 +1,6 @@
 ---
 title: video-test
-#date: 
+date: 
 tags:
 - 娱乐
 ---
