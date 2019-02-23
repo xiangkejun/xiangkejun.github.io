@@ -6,7 +6,7 @@
 # Site
 title: jun
 subtitle:
-description:
+description: 人生不止眼前的苟且 还有诗和远方
 author: jun
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -233,7 +233,8 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: http://pnbd44c64.bkt.clouddn.com/TIM%E5%9B%BE%E7%89%8720190222122952.jpg
+avatar: 
+  url:　http://pnbd44c64.bkt.clouddn.com/TIM%E5%9B%BE%E7%89%8720190222122952.jpg
   rounded: true
   opacity: 1
   rotated: true
