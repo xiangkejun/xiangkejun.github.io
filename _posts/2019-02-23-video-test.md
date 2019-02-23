@@ -11,6 +11,5 @@ categories:
 
 
 
+<iframe src="//player.bilibili.com/player.html?aid=44365082&cid=77679914&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-
-<iframe height=498 width=510 src='http://player.youku.com/embed/XNDA3NTM1MjMwMA==' frameborder=0 'allowfullscreen'></iframe>
