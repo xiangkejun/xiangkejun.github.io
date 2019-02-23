@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: http://pnbd44c64.bkt.clouddn.com/TIM%E5%9B%BE%E7%89%8720190222122952.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -262,10 +262,10 @@ sidebar:
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
   #  - always  expand for all pages automatically
-  #  - hide    expand only when click on the sidebar toggle icon.
+  #  - hide    expand only when click on the sidebar toggle icon.f
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
-  #display: always
+  # display: post
+  display: always
   #display: hide
   #display: remove
 
