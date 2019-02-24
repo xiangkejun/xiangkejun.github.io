@@ -727,11 +727,14 @@ vendors:
   # https://github.com/ethantw/Han
   han:
 
-
 # Assets
 css: assets/css
 js: assets/js
 images: assets/images
+
+reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+wechatpay: http://pnbd44c64.bkt.clouddn.com/me1.png
+alipay: http://pnbd44c64.bkt.clouddn.com/me.png
 
 # Theme version
 version: 5.1.4
