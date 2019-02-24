@@ -16,4 +16,4 @@ image-test
 
 ![卡通](http://pnbd44c64.bkt.clouddn.com/ea8dbe315c6034a85c44aec4c81349540823767c.jpg)
 
-<img align=center width = '150' height ='150' src ="http://pnbd44c64.bkt.clouddn.com/ea8dbe315c6034a85c44aec4c81349540823767c.jpg"/>
+<img align=left width = '150' height ='150' src ="http://pnbd44c64.bkt.clouddn.com/ea8dbe315c6034a85c44aec4c81349540823767c.jpg"/>
