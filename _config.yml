@@ -213,9 +213,13 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   #LinkLabel: Link
-
+  GitHub: https://github.com/xiangkejun
+  微博: https://weibo.com/6704632168/profile?topnav=1&wvr=6
+  CSDN: https://blog.csdn.net/v7xyy
+  高德: https://www.amap.com/
+  淘宝: https://www.taobao.com/
 
 # Social Links Icons
 # Icon Mapping:
