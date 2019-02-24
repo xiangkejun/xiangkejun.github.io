@@ -15,3 +15,6 @@ categories:
 
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=v0029bmcc3w" allowFullScreen="true"></iframe>
+
+
+{% youku http://player.youku.com/player.php/sid/XNDA1OTk0ODEzNg==/v.swf %}
