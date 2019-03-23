@@ -737,8 +737,8 @@ js: assets/js
 images: assets/images
 
 reward_comment: 扫我，快扫我！
-wechatpay: pic/weixin.png
-alipay: pic/zhifubao.png
+wechatpay: ./pic/weixin.png
+alipay: ./pic/zhifubao.png
 
 # Theme version
 version: 5.1.4
