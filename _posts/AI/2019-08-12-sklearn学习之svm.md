@@ -12,7 +12,8 @@ svm是很强大的分类器，可以用于监督学习，半监督/无监督学�
 
 1. svm一个简单的二分类例子
 
-https://scikit-learn.org/stable/modules/svm.html#svm-classification
+[svm-classification](https://scikit-learn.org/stable/modules/svm.html#svm-classification
+)
 
 
 ```
